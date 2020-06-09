@@ -8,7 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-###this is a Rmarkdown file
+##this is a markdown file
 
 ## R Markdown
 
